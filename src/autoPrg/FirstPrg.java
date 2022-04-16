@@ -27,6 +27,7 @@ public class FirstPrg {
 		
 		WebDriver driver2 = new FirefoxDriver();
 		driver2.get("https://soapui.com");
+		System.out.println("Url is open");
 		
 	}
 }
